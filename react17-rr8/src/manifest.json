@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "0.1",
-  "name": "React17-RR7",
+  "name": "React17-RR8",
 
   "permissions": ["<all_urls>"],
 
@@ -10,13 +10,13 @@
   },
 
   "sidebar_action": {
-    "default_title": "webext-redux react17-rr7",
+    "default_title": "webext-redux react17-rr8",
     "default_panel": "/sidebar/sidebar.html",
     "browser_style": true
   },
 
   "browser_action": {
     "browser_style": true,
-    "default_title": "React17-RR7"
+    "default_title": "React17-RR8"
   }
 }
