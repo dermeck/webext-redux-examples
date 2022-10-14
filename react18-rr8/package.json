@@ -1,5 +1,5 @@
 {
-  "name": "webext-redux-example-react17-rr-7",
+  "name": "webext-redux-example-react18-rr-8",
   "version": "0.0.1",
   "author": "dermeck <ff@dermeck.mozmail.com>",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "devDependencies": {
     "@reduxjs/toolkit": "^1.6.0",
-    "@types/react": "^17.0.8",
-    "@types/react-dom": "^17.0.5",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
     "@types/react-redux": "^7.1.16",
     "copy-webpack-plugin": "^9.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-redux": "^7.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.4",
     "ts-loader": "^9.2.2",
     "typescript": "^4.3.2",
     "webext-redux": "^2.1.7",
