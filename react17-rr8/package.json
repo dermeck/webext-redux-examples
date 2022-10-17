@@ -22,5 +22,9 @@
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0"
   },
-  "dependencies": {}
+  "packageManager": "yarn@3.2.4",
+  "resolutions": {
+    "webext-redux": "portal:/home/martin/projects/npm-packages/webext-redux",
+    "react-redux": "portal:/home/martin/projects/npm-packages/react-redux"
+  }
 }
